@@ -4,13 +4,19 @@
 - **Student ID**: RNS/0262/23
 - **Course**: DSA
 ## Algorithm
-Initialize a variable smallest with the first element of the array.
-Iterate through the array starting from the second element.
-Compare each element with smallest.
-If the current element is less than smallest, update ,smallest with the current element.
-After the loop ends, smallest will contain the smallest number in the array.
-How to Run the Code
-Clone the repository to your local machine.
-Open the terminal and navigate to the repository directory.
-Compile the C++ code using c++ compiler
-the program prints the smallest number in the array*/
+1.Initialize a variable smallest with the first element of the array.
+2.Iterate through the array starting from the second element.
+3.Compare each element with smallest.
+4.If the current element is less than smallest, update ,smallest with the current element.
+5.After the loop ends, smallest will contain the smallest number in the array.
+## How to Run the Code
+1.Clone the repository to your local machine.
+2. Open the terminal and navigate to the repository directory.
+3. Compile the C++ code using:
+ ```bash
+ g++ main.cpp -o main
+Run the compiled program:
+./main
+Output
+The program will output:
+The smallest number in the array is: 10
