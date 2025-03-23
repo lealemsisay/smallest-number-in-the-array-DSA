@@ -1,0 +1,1 @@
+# smallest-number-in-the-array-DSA
